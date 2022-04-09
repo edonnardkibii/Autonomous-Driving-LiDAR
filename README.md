@@ -1,4 +1,4 @@
-# **Bachelorarbeit**
+# **Projektarbeit**
 
 ## **Steuerung eines Kleinfahrzeugs mit einem Laserscanner**
 **Betreuer (Owner): Prof. Dr. Hartmut Gimpel (Fakultät MA) <br/>**
